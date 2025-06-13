@@ -34,3 +34,16 @@ Devuelve una instancia de la clase Conversor con los datos cargados.
 🔹 Conversor.java
 Responsabilidad principal:
 Sirve como modelo de datos (DTO) para representar la respuesta de la API. Contiene las tasas de conversión para una moneda base.
+
+
+Como usar:
+Primero elegimos una opcion en el menu:
+![image](https://github.com/user-attachments/assets/63deb2cf-4c86-4330-94d8-8cc913ccdeae)
+
+Segundo, Elegimos el monto a convertir:
+![image](https://github.com/user-attachments/assets/b56d2c38-f238-4d9a-83ec-bd4386786012)
+
+Y por ultimo da el resultado y elegimnos si seguir convirtiendo o salirnos
+![image](https://github.com/user-attachments/assets/61c6de39-c776-4425-9908-424613380375)
+
+
